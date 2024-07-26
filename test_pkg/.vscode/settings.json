@@ -1,0 +1,18 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/ros/ros2_ws93/install/turtlesim/local/lib/python3.10/dist-packages",
+        "/home/ros/ros2_ws93/install/test_pkg/lib/python3.10/site-packages",
+        "/home/ros/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages",
+        "/home/ros/ros2_ws/install/test_pkg/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/ros/ros2_ws93/install/turtlesim/local/lib/python3.10/dist-packages",
+        "/home/ros/ros2_ws93/install/test_pkg/lib/python3.10/site-packages",
+        "/home/ros/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages",
+        "/home/ros/ros2_ws/install/test_pkg/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
